@@ -7,7 +7,7 @@ The main objective of this project is to create an interactive mobile applicatio
 
 The source code is available in the below git hub location:
 
-https://github.com/sandeepdude/CS5200-DBMS/
+https://github.com/sandeepdude/CS5200-DBMS/DroidNurse/
 
 
 How To Install The APK File:
