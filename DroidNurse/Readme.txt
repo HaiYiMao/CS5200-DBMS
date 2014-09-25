@@ -7,7 +7,7 @@ The main objective of this project is to create an interactive mobile applicatio
 
 The source code is available in the below git hub location:
 
-https://github.com/venkatesh891/CS5200 
+https://github.com/sandeepdude/CS5200-DBMS/
 
 
 How To Install The APK File:
